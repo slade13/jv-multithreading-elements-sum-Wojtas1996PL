@@ -7,3 +7,4 @@ otherwise we should do the work.
 
 The results of each subtask execution should be merged into a final result and printed out.
 You can test your code in `main()` method.
+ 
